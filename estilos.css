@@ -165,14 +165,14 @@ nav a:hover {
 }
 
 .galeria {
-    display: flex;               /* activa flexbox */
-    justify-content: center;     /* centra las imágenes horizontalmente */
-    gap: 20px;                   /* espacio entre imágenes */
-    flex-wrap: wrap;             /* permite que bajen si la pantalla es pequeña */
+    display: flex;              
+    justify-content: center;    
+    gap: 20px;                   
+     flex-wrap: wrap;             
 }
 
 .galeria figure {
-    margin: 0;                   /* quita márgenes extra */
-    text-align: center;          /* centra caption debajo de la imagen */
+    margin: 0;                   
+    text-align: center;        
 }
 
